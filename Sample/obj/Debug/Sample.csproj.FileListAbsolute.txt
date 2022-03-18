@@ -1,0 +1,6 @@
+D:\Ramu\Sample\Sample\bin\Debug\Sample.exe.config
+D:\Ramu\Sample\Sample\bin\Debug\Sample.exe
+D:\Ramu\Sample\Sample\bin\Debug\Sample.pdb
+D:\Ramu\Sample\Sample\obj\Debug\Sample.csprojResolveAssemblyReference.cache
+D:\Ramu\Sample\Sample\obj\Debug\Sample.exe
+D:\Ramu\Sample\Sample\obj\Debug\Sample.pdb
